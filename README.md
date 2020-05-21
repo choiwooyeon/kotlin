@@ -13,3 +13,4 @@
 #### [2. Kotlin 변수](src/main/resources/doc/2_변수.md)
 #### [3. Kotlin 클래스](src/main/resources/doc/3_클래스.md)
 #### [4. Kotlin 초기화블록](src/main/resources/doc/4_초기화블록.md)
+#### [5. Kotlin 클래스의 상속](src/main/resources/doc/5_클래스상속.md)
